@@ -1,0 +1,6 @@
+*.mod
+web/server/*.json
+*.sum
+*.json
+web/server/sf6r-db-key.json
+
